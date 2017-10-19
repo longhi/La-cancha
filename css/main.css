@@ -1,0 +1,66 @@
+.relleno {
+          display: inline-block;
+          width: 700px;
+          height: 400px;
+          margin: 2px;
+          background-color:#8CB27C;}
+.color{
+          border: 4px white solid;
+          display: inline-block;
+          width: 662px;
+          height: 360px;
+          margin: 14px;
+         }
+.position{
+        border: 4px white solid;
+        display: inline-block;
+        position:relative;
+        bottom: 19.5em;
+        width: 100px;
+        height:170px;
+        margin: 14px;
+      }
+.first{
+  border: 4px white solid;
+  display: inline-block;
+  position:relative;
+  bottom: 19.5em;
+  left: 26.3em;
+  width: 100px;
+  height:170px;
+  margin: 14px;
+}
+
+
+.circle {
+    position: relative;
+    border: 4px white solid;
+     width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     bottom: 32.2em;
+     left: 17em;
+}
+.unbalon{
+ position: relative;
+  width: 18px;
+  height: 18px;
+  bottom:43.5em;
+  left: 6.7em;
+}
+.dosbalon{
+ position: relative;
+  width: 18px;
+  height: 18px;
+  bottom:46.5em;
+  left: 22.3em;
+}
+.tresbalon{
+ position: relative;
+  width: 18px;
+  height: 18px;
+  bottom:34.3em;
+  left: 31.7em;
+}
